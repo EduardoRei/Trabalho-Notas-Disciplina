@@ -11,3 +11,4 @@ Utilize os testes unitários para garantir a corretude.
 
 Apresente o diagrama de classes.
 
+![image](https://user-images.githubusercontent.com/84744978/176212254-052a33c9-1d70-4752-8c39-366f49a4b229.png)
